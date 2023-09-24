@@ -40,11 +40,15 @@ Função Dividir:
 + Dividir Sendo o Segundo Negativo;
 
 # Publicação
+https://github.com/Felepenhos/Calculadora/blob/main/README.md
+
+
 
 # Tecnologia 
 Liguaguem Java 
 
-# Ide 
+
+# Ferramenta 
 Eclipse 
 
 # Ultima Atualização 
