@@ -17,7 +17,7 @@ public class CalculadoraTesteDivi {
 	     
 	     
 	     // 4 Divizão os dois valores sendo um deles negativo 
-	      div = calc.divi(14,-2);
+	      div = calc.divi(-14,2);
 	     System.out.println(div);
 	     // não tem como resultar um numero negativo na divisão 
 	     

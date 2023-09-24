@@ -16,7 +16,7 @@ public class CalculadoraTesteSub {
      
      
      // 4 Subtrair os dois valores sendo um deles negativo 
-      sub = calc.sub(7,-3);
+      sub = calc.sub(-7,3);
      System.out.println(sub);
      
      // 5 Subtrair os dois valores sendo os dois negativos 

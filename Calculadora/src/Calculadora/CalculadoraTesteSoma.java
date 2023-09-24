@@ -16,7 +16,7 @@ public class CalculadoraTesteSoma {
      
      
      // 4 somar os dois valores sendo um deles negativo 
-      soma = calc.somar(3,-1);
+      soma = calc.somar(-3,1);
      System.out.println(soma);
      
      // 5 somar os dois valores sendo os dois negativos 
@@ -28,7 +28,8 @@ public class CalculadoraTesteSoma {
       soma = calc.somar(3,-1);
      System.out.println(soma);
      
-     // 7
+     
+     
      
     }
     

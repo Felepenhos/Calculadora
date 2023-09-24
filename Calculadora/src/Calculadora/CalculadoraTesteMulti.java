@@ -16,7 +16,7 @@ public class CalculadoraTesteMulti {
      
      
      // 4 Multiplicar os dois valores sendo um deles negativo 
-      multi = calc.multi(14,-9);
+      multi = calc.multi(-14,9);
      System.out.println(multi);
      
      // 5 Multiplicar os dois valores sendo os dois negativos 
