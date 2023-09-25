@@ -45,13 +45,13 @@ https://github.com/Felepenhos/Calculadora/blob/main/README.md
 
 
 # Tecnologia 
-Liguaguem Java 
+Linguaguem Java 
 
 
 # Ferramenta 
 Eclipse 
 
 # Ultima Atualização 
-24/09/2023
+25/09/2023
 
 
